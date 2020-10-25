@@ -14,7 +14,7 @@
         />
 
     <com.trncic.library.DottedProgressBar
-        android:id="@+id/progress"
+        android:id="@+id/maps_progress"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="30dp"

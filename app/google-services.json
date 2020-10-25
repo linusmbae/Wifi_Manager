@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440372039425",
+    "firebase_url": "https://wifi-manager-f2088.firebaseio.com",
+    "project_id": "wifi-manager-f2088",
+    "storage_bucket": "wifi-manager-f2088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440372039425:android:0e261a8f396305aab29500",
+        "android_client_info": {
+          "package_name": "org.wifi_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440372039425-ei9le38aqamaacikor846or4u2drfv1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRnYHaziVyxqJ5z7Qe_q5Oedn75nT3FI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440372039425-ei9le38aqamaacikor846or4u2drfv1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
